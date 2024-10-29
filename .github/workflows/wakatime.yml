@@ -2,15 +2,21 @@ name: Update WakaTime stats
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Updates every hour
-  workflow_dispatch:  # Allows manual trigger
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    environment: wakatime-stats  # Reference the new environment here
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4  # Updated to the latest version
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3  # Ensures the correct Node.js version is used
+        with:
+          node-version: '20'  # Use Node.js 20 explicitly
 
       - name: Update WakaTime Stats in README
         uses: anmol098/waka-readme-stats@master
