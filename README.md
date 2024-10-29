@@ -1,17 +1,17 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 212.1 kB Used in GitHub's Storage 
+> 📦 212.2 kB Used in GitHub's Storage 
  > 
-> 🏆 274 Contributions in the Year 2024
+> 🏆 275 Contributions in the Year 2024
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 5 Public Repositories 
  > 
@@ -54,11 +54,11 @@ JavaScript               1 min               ░░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               10 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
-TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+JavaScript               10 repos            ████████░░░░░░░░░░░░░░░░░   32.26 % 
+TypeScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
 
@@ -68,5 +68,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dikshithvishnu/dikshithvishnu/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2024 18:08:19 UTC
+ Last Updated on 29/10/2024 18:48:28 UTC
 <!--END_SECTION:waka-->
