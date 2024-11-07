@@ -9,8 +9,6 @@
 
 > 📦 212.4 kB Used in GitHub's Storage 
  > 
-> 🏆 289 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -68,5 +66,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dikshithvishnu/dikshithvishnu/main/assets/bar_graph.png)
 
 
- Last Updated on 07/11/2024 10:07:04 UTC
+ Last Updated on 07/11/2024 11:06:34 UTC
 <!--END_SECTION:waka-->
