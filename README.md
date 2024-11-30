@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-128%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-133%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -9,7 +9,7 @@
 
 > 📦 213.6 kB Used in GitHub's Storage 
  > 
-> 🏆 382 Contributions in the Year 2024
+> 🏆 384 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -44,11 +44,11 @@ Sunday                   104 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               6 hrs 57 mins       ████████████████░░░░░░░░░   64.29 % 
-Python                   3 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   31.79 % 
-Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-Image (svg)              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+TypeScript               9 hrs 21 mins       ██████████████████░░░░░░░   72.55 % 
+Python                   3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+Docker                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Image (svg)              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -68,5 +68,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dikshithvishnu/dikshithvishnu/main/assets/bar_graph.png)
 
 
- Last Updated on 30/11/2024 05:06:56 UTC
+ Last Updated on 30/11/2024 06:08:18 UTC
 <!--END_SECTION:waka-->
