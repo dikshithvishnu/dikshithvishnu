@@ -26,4 +26,3 @@ jobs:
           SHOW_PROJECTS: false
           SHOW_EDITORS: false
           SHOW_OS: false
-          SHOW_TIME: false
