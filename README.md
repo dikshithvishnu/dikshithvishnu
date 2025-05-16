@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-329%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-329%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue)
 
@@ -73,5 +73,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dikshithvishnu/dikshithvishnu/main/assets/bar_graph.png)
 
 
- Last Updated on 16/05/2025 03:24:59 UTC
+ Last Updated on 16/05/2025 04:08:52 UTC
 <!--END_SECTION:waka-->
