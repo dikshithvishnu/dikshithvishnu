@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-329%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-329%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue)
 
@@ -44,16 +44,13 @@ Sunday                   479 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               40 mins             ██████████████░░░░░░░░░░░   54.48 % 
-Python                   30 mins             ██████████░░░░░░░░░░░░░░░   41.31 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TypeScript               41 mins             █████████████████████░░░░   82.36 % 
+Python                   8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
 
 🐱‍💻 Projects: 
-insider-socket-ts        38 mins             █████████████░░░░░░░░░░░░   51.25 % 
-todaySport-flask         28 mins             ██████████░░░░░░░░░░░░░░░   38.21 % 
-game-statistics-cr       5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-insider-edge-nextjs      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+insider-socket-ts        38 mins             ███████████████████░░░░░░   76.44 % 
+todaySport-flask         8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+insider-edge-nextjs      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -73,5 +70,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dikshithvishnu/dikshithvishnu/main/assets/bar_graph.png)
 
 
- Last Updated on 16/05/2025 04:08:52 UTC
+ Last Updated on 16/05/2025 05:06:59 UTC
 <!--END_SECTION:waka-->
