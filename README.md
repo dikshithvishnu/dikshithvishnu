@@ -9,8 +9,6 @@
 
 > 📦 250.8 kB Used in GitHub's Storage 
  > 
-> 🏆 407 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -44,13 +42,10 @@ Sunday                   479 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               14 mins             ████████████████░░░░░░░░░   62.41 % 
-Python                   8 mins              █████████░░░░░░░░░░░░░░░░   37.59 % 
+Python                   8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-insider-socket-ts        14 mins             ███████████████░░░░░░░░░░   61.28 % 
-todaySport-flask         8 mins              █████████░░░░░░░░░░░░░░░░   37.59 % 
-insider-edge-nextjs      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+todaySport-flask         8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -70,5 +65,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dikshithvishnu/dikshithvishnu/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2025 04:11:33 UTC
+ Last Updated on 19/05/2025 05:07:00 UTC
 <!--END_SECTION:waka-->
