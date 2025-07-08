@@ -1,13 +1,15 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-375%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-375%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 280.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 637 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -73,5 +75,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dikshithvishnu/dikshithvishnu/main/assets/bar_graph.png)
 
 
- Last Updated on 08/07/2025 18:08:15 UTC
+ Last Updated on 08/07/2025 19:06:27 UTC
 <!--END_SECTION:waka-->
