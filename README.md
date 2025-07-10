@@ -1,79 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dikshith Vishnuvardhan</h1>
+<h3 align="center">A full stack developer based out of Atlanta, GA, USA.</h3>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs%2028%20mins-blue)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshithvishnu&label=Profile%20views&color=0e75b6&style=flat" alt="dikshithvishnu" /> </p>
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+- 🔭 I’m currently working on [The Betting Insider](https://thebettinginsider.com)
 
-**🐱 My GitHub Data** 
+- 🌱 I’m currently learning **Go, React Native**
 
-> 📦 280.4 kB Used in GitHub's Storage 
- > 
-> 🏆 661 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 7 Public Repositories 
- > 
-> 🔑 29 Private Repositories 
- > 
-**I'm a Night 🦉** 
+- 👨‍💻 All of my projects are available at [https://www.dikshith.com/](https://www.dikshith.com/)
 
-```text
-🌞 Morning                221 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-🌆 Daytime                1775 commits        ██████████░░░░░░░░░░░░░░░   40.29 % 
-🌃 Evening                1532 commits        █████████░░░░░░░░░░░░░░░░   34.77 % 
-🌙 Night                  878 commits         █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-```
-📅 **I'm Most Productive on Tuesday** 
+- 💬 Ask me about **React, Node, Python**
 
-```text
-Monday                   513 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Tuesday                  761 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-Wednesday                617 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Thursday                 709 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Friday                   518 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Saturday                 632 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Sunday                   656 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-```
+- 📫 How to reach me **dikshithvishnu2@gmail.com**
 
+- 📄 Know about my experiences [https://www.dikshith.com/Dikshith%20Vishnuvardhan%20-%20Resume.pdf](https://www.dikshith.com/Dikshith%20Vishnuvardhan%20-%20Resume.pdf)
 
-📊 **This Week I Spent My Time On** 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dikshith-vishnuvardhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dikshith-vishnuvardhan/" height="30" width="40" /></a>
+<a href="https://instagram.com/dikshith.vishnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dikshith.vishnu" height="30" width="40" /></a>
+</p>
 
-```text
-🕑︎ Time Zone: America/New_York
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-💬 Programming Languages: 
-TypeScript               5 hrs 36 mins       ██████████████░░░░░░░░░░░   56.79 % 
-Python                   1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-JavaScript               1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Bash                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dikshithvishnu&show_icons=true&locale=en&layout=compact" alt="dikshithvishnu" /></p>
 
-🐱‍💻 Projects: 
-stripe-node-api          2 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   29.44 % 
-iea-stripe-checkout      2 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   27.01 % 
-insider-socket-ts        2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
-todaySport-flask         1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-game-statistics-cr       57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-```
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dikshithvishnu&show_icons=true&locale=en" alt="dikshithvishnu" /></p>
 
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               13 repos            ████████░░░░░░░░░░░░░░░░░   31.71 % 
-JavaScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   29.27 % 
-Python                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/dikshithvishnu/dikshithvishnu/main/assets/bar_graph.png)
-
-
- Last Updated on 10/07/2025 02:40:06 UTC
-<!--END_SECTION:waka-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dikshithvishnu&" alt="dikshithvishnu" /></p>
