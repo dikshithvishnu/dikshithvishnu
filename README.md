@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Node, Python**
 
-- 📫 How to reach me **dikshithvishnu2@gmail.com**
+- 📫 How to reach me **dikshith@thebettinginsider.com**
 
 - 📄 Know about my experiences [https://www.dikshith.com/Dikshith%20Vishnuvardhan%20-%20Resume.pdf](https://www.dikshith.com/Dikshith%20Vishnuvardhan%20-%20Resume.pdf)
 
@@ -27,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dikshithvishnu&show_icons=true&locale=en&layout=compact" alt="dikshithvishnu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dikshithvishnu&show_icons=true&locale=en" alt="dikshithvishnu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dikshithvishnu&" alt="dikshithvishnu" /></p>
