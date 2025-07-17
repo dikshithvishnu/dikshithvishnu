@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Node, Python**
 
-- 📫 How to reach me **dikshith@thebettinginsider.com**
+- 📫 How to reach me **contact@dikshith.com**
 
 - 📄 Know about my experiences [https://www.dikshith.com/Dikshith%20Vishnuvardhan%20-%20Resume.pdf](https://www.dikshith.com/Dikshith%20Vishnuvardhan%20-%20Resume.pdf)
 
